@@ -1,2 +1,15 @@
-# Amazon_Clone
-This repository consists the code for the clone of a Amazon website as of 2-2-2024 using HTML and CSS.
+## Introduction
+
+This project is a basic frontend implementation of an Amazon clone. It is designed to be simple and easy to understand, making it a great starting point for beginners looking to learn HTML, CSS.
+
+## Features
+
+- Product listing page
+- Product detail page
+- Shopping cart display
+- Responsive design
+
+## Technologies Used
+
+- HTML
+- CSS
